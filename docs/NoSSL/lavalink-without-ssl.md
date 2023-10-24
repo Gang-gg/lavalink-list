@@ -309,3 +309,11 @@ Port : 6023
 Password : "discord.gg/CMENnZSuj3"
 Secure : false
 ```
+Hosted by @ [Lights.out.#0](https://discord.com/invite/qY2RTZb9GC)
+```bash
+Host : 194.247.42.61
+Port : 27602
+Password : "discord.com/invite/qY2RTZb9GC"
+Secure : false
+```
+

@@ -313,7 +313,14 @@ Hosted by @ [Lights.out.#0](https://discord.com/invite/qY2RTZb9GC)
 ```bash
 Host : 194.247.42.61
 Port : 27602
-Password : "discord.com/invite/qY2RTZb9GC"
+Password : "dash.obsidiansrv.in"
+Secure : false
+```
+Hosted by @ [Lights.out.#0](https://discord.com/invite/S5RetBHXf9)
+```bash
+Host : 194.247.42.61
+Port : 27656
+Password : "slicehosting.tech"
 Secure : false
 ```
 
